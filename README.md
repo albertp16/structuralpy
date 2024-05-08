@@ -1,2 +1,5 @@
 # structuralpy
-structural checks tool
+
+commands for easy computational assistance. 
+
+

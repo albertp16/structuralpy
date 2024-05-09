@@ -1,4 +1,6 @@
 from setuptools import setup, find_packages
+# export TWINE_USERNAME
+
 
 setup(
     name = "aptool",

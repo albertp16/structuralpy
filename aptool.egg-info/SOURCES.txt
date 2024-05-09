@@ -1,0 +1,8 @@
+README.md
+setup.py
+aptool/__init__.py
+aptool/main.py
+aptool.egg-info/PKG-INFO
+aptool.egg-info/SOURCES.txt
+aptool.egg-info/dependency_links.txt
+aptool.egg-info/top_level.txt

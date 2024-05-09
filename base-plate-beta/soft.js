@@ -63,18 +63,18 @@ function calculateDrift(data){
 
     }
     //--> Condition Two Check 
-    for(let i=0; i<data.length; i++){
+    // for(let i=0; i<data.length; i++){
 
-        // if(i == 0) {
-        //     data[i].push("--")
-        // } else if (i >= 1) {
-        // let check = (data[i][4] <= data[i][6]) ? "ok" : "exist"
-        // data[i].push(check)
-        // } else {
-        //     console.log("not working")
-        // }
+    //     // if(i == 0) {
+    //     //     data[i].push("--")
+    //     // } else if (i >= 1) {
+    //     // let check = (data[i][4] <= data[i][6]) ? "ok" : "exist"
+    //     // data[i].push(check)
+    //     // } else {
+    //     //     console.log("not working")
+    //     // }
 
-    }
+    // }
 
     return data
 }

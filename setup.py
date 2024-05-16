@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name = "aptool",
+    name = "apectool",
     version = "0.2",
     packages = find_packages(),
     install_requires = [
@@ -15,3 +15,5 @@ setup(
         ]
     }
 )
+
+# dce8f525-74ce-43af-bae6-5934b1aa5e73dce8f525-74ce-43af-bae6-5934b1aa5e73C:\Users\alber\OneDrive\OLD FILES NOV 2022\Desktop\skyCiv\structuralpy\setup.py
